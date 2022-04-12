@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "364494936928",
+    "project_id": "pwatfood4u",
+    "storage_bucket": "pwatfood4u.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364494936928:android:ea96c2939bf894aa359c05",
+        "android_client_info": {
+          "package_name": "com.pwattana.food4uV2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364494936928-647324rd9t9atm92ed4mdo9g08i3renl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtHHZNMNh5kbGWJzV8qrdH672bo049c3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364494936928-647324rd9t9atm92ed4mdo9g08i3renl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
